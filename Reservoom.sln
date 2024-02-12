@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.33927.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reservoom", "Reservoom\Reservoom.csproj", "{C2CFB2D9-440E-48EA-AE60-4EE66E1AA5F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2CFB2D9-440E-48EA-AE60-4EE66E1AA5F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2CFB2D9-440E-48EA-AE60-4EE66E1AA5F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2CFB2D9-440E-48EA-AE60-4EE66E1AA5F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2CFB2D9-440E-48EA-AE60-4EE66E1AA5F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D72525A-E6F1-485F-830E-DB57627EFC25}
+	EndGlobalSection
+EndGlobal
